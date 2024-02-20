@@ -31,3 +31,14 @@ The goal of this project is to develop a data warehouse solution using Azure Syn
 * Azure Synapse SQL Dedicated Pool
 
 ### **Task 2:** Design a star schema
+
+<img width="995" alt="starschema" src="https://github.com/muegle/project-2-azure-data-warehouse-for-bike-share-data-analytics/assets/142508165/39f930fa-c06a-4584-8630-0944353a6493">
+
+### **Task 3:** Create the data in PostgresSQL
+
+### **Task 4:** EXTRACT the data from PostgresSQL
+
+![PostgreSQL2AzureBlopStorage](https://github.com/muegle/project-2-azure-data-warehouse-for-bike-share-data-analytics/assets/142508165/0440eb2c-b076-4921-b29f-71b322aeaf6d)
+
+### **Task 5:** LOAD the data into external tables in the data warehouse
+
