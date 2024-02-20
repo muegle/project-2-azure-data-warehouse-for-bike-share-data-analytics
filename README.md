@@ -1,6 +1,9 @@
 # Building an Azure Data Warehouse for Bike Share Data Analytics
 
 ## Project Overview
+
+![bikeshare](https://github.com/muegle/project-2-azure-data-warehouse-for-bike-share-data-analytics/assets/142508165/939332bb-6794-47e3-90a5-c7eecfc65ebb)
+
 Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to purchase a pass at a kiosk or use a mobile application to unlock a bike at stations around the city and use the bike for a specified amount of time. The bikes can be returned to the same station or to another station. The City of Chicago makes the anonymized bike trip data publicly available for projects like this where we can analyze the data.
 
 The goal of this project is to develop a data warehouse solution using Azure Synapse Analytics. You will:
@@ -41,4 +44,10 @@ The goal of this project is to develop a data warehouse solution using Azure Syn
 ![PostgreSQL2AzureBlopStorage](https://github.com/muegle/project-2-azure-data-warehouse-for-bike-share-data-analytics/assets/142508165/0440eb2c-b076-4921-b29f-71b322aeaf6d)
 
 ### **Task 5:** LOAD the data into external tables in the data warehouse
+see the scripts under /scripts-loading-external-tables/
+
+### **Task 6:** TRANSFORM the dat to the star schema using CETAS
+see the scripts under /scripts-transform-to-the-starshema-using-CETAS/
+
+
 
