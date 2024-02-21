@@ -11,14 +11,14 @@ WITH
 )
 AS
 SELECT 
-    [rider_id]
-    ,[firstName]
-    ,[lastName]
-    ,[_address]
-    ,[birthday]
-    ,[account_start_date]
-    ,[account_end_date]
-    ,[is_member]
+    [RiderId],
+    [Address],
+    [FirstName],
+    [LastName],
+    [birthday],
+    [StartDate],
+    [EndDate],
+    [IsMember]
 FROM staging_rider;
 
 -- Verify the output
